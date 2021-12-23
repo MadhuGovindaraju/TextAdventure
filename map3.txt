@@ -1,0 +1,5 @@
+||StartingRoom3|Morocco|
+|FlyingIronManGloves|F1Car|Morocco_Circuit|
+|Whiplash|JarvisAI|HappyDrivesIn|
+|JarvisAI|FlyingIronManSuit|HotelInMorocco|
+||Mandarin|BlowMandarin|

@@ -1,0 +1,4 @@
+||StartingRoom1|CaveRoom|
+|BodyArmour|CaveRoom2|Terrorist|
+|FireBlaze|StarkMissile|CaveRoom3|
+||Terrorist|FlyoffromCave|
